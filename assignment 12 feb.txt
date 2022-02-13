@@ -1,0 +1,27 @@
+question no 1
+1. initialize year
+2. Assign a value to the variable
+3. if the year is divisible by 4 but not 100
+   print "leap year"
+   else "not leap year"
+question no 2
+
+1.initialize upper limit
+2.Declare variable c of integer type
+3.Set c=0
+4.Repeat step 4.1 to 4.3 while (c<=100)
+5. if (c%2 != 0)
+   then print c
+   set c=c+1
+
+question no 3
+1.initialize number
+2.name veriable cout
+3.name another veriable sum
+4.initialze cout to 0
+5.initialze sum to 0
+6.repeat until reaches 100
+7.cout++
+8.cout/2
+9.IF reminder 0 THEN SUM = SUM + COUNT
+10.END 
